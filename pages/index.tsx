@@ -29,14 +29,19 @@ const Home: NextPage = () => {
                         The Problem
                     </h2>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum ligula sed sem vehicula vestibulum. Maecenas sed cursus purus, eget dictum dui. Quisque vitae posuere nisi, id lacinia enim. Nulla et nisl luctus, finibus mauris vel, ultricies enim. Curabitur faucibus nibh vitae elit suscipit rutrum. Praesent pulvinar rutrum sapien quis facilisis. Nulla hendrerit ipsum turpis, non elementum urna suscipit vehicula. Cras sed quam velit. Nunc ullamcorper tincidunt turpis ut dapibus. Vivamus pulvinar eleifend arcu, non euismod augue condimentum eget. Donec porta, neque eget laoreet aliquet, metus orci aliquet sem, quis sollicitudin dui libero eget dolor. Curabitur sit amet nisl eu lacus faucibus rutrum vel eget quam. Vivamus nec aliquam diam. Nam lectus turpis, pretium in dui vitae, maximus pharetra eros. Phasellus pulvinar neque id arcu volutpat, et tincidunt urna ultricies.
+                    Målet igen fattigdom är det första målet i de sjutton globala målen och det är inte en slump. 
+                    Fattigdom handlar om mer än att inte ha pengar, det innebär också brist på frihet, inflytande, hälsa, utbildning och säkerhet. Det kallas för multidimensionell fattigdom och innefattar 1,3 miljarder människor varav hälften är under 18. 
+
+                    Eftersom att hälften av all fattigdom ligger i länder söder om Sahara så är det viktigt om det finns ett sätt att transportera nödhjälp från Europa till Afrika. När det inträffar katastrofer är det viktigt att dämpa de förödande konsekvenserna. För att lösa detta har vi gjort ett logistik-system som ger möjlighet för organisationer att effektivisera, optimera och planera snabba transportsträckor för nödhjälp till utsatta områden genom att analysera framkomligheten och behoven mellan olika områden.
+                    För att ni ska kunna förstå så har vi en demo att visa.
+
                     </p>
                     
                     <h2>
                         The Solution
                     </h2>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum ligula sed sem vehicula vestibulum. Maecenas sed cursus purus, eget dictum dui. Quisque vitae posuere nisi, id lacinia enim. Nulla et nisl luctus, finibus mauris vel, ultricies enim. Curabitur faucibus nibh vitae elit suscipit rutrum. Praesent pulvinar rutrum sapien quis facilisis. Nulla hendrerit ipsum turpis, non elementum urna suscipit vehicula. Cras sed quam velit. Nunc ullamcorper tincidunt turpis ut dapibus. Vivamus pulvinar eleifend arcu, non euismod augue condimentum eget. Donec porta, neque eget laoreet aliquet, metus orci aliquet sem, quis sollicitudin dui libero eget dolor. Curabitur sit amet nisl eu lacus faucibus rutrum vel eget quam. Vivamus nec aliquam diam. Nam lectus turpis, pretium in dui vitae, maximus pharetra eros. Phasellus pulvinar neque id arcu volutpat, et tincidunt urna ultricies.
+                        Eftersom att det är svårt att planera så stora transporter så kan ett program göra det med hjälp av kartor på vägar som planerar rutter med hjälp av framkomligheten och räknar ut tiden för transporterna.
                     </p>
 
                     <h3>Start here!</h3>

@@ -3,6 +3,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 
 import Navbar from '../components/Navbar'
+import LocationForm from '../components/AddLocationForm'
 
 import styled from 'styled-components'
 
@@ -10,10 +11,13 @@ const Home: NextPage = () => {
     return (
         <>
             <Head>
-                <title>Home</title>
+                <title>Add Location</title>
             </Head>
 
-            <Navbar />
+            <div className="container">
+                <Navbar />
+                <LocationForm />
+            </div>
 
         </>
     )
