@@ -3,16 +3,25 @@ import HomeIcon from '@mui/icons-material/Home'
 import AddLocationAltIcon from '@mui/icons-material/AddLocationAlt'
 import AppsIcon from '@mui/icons-material/Apps'
 
-
 const Navbar = () => {
     return (
         <nav>
             <ul>
-                <li>
-                    <Link href="/"><HomeIcon /></Link>
-                    <Link href="/add"><AddLocationAltIcon /></Link>
-                    <Link href="/app"><AppsIcon /></Link>
-                </li>
+                <Link href="/">
+                    <li>
+                        <HomeIcon />
+                    </li>
+                </Link>
+                <Link href="/app">
+                    <li>
+                        <AppsIcon />
+                    </li>
+                </Link>
+                <Link href="/add">
+                    <li>
+                        <AddLocationAltIcon />
+                    </li>
+                </Link>
             </ul>
         </nav>
     )
